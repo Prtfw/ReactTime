@@ -1,0 +1,17 @@
+.top-bar, .top-bar ul {
+    background-color: $nav-bg;
+}
+
+.top-bar {
+    .menu-text {
+        color: $nav-txt-color;
+    }
+    
+    .active-link{
+    font-weight: bold;
+}
+}
+
+.top-bar-right{
+    // margin-top: 10px;
+}
